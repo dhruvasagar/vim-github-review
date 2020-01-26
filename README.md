@@ -7,7 +7,9 @@ If you don't have a preferred installation method, I recommend
 installing [packup](https://github.com/dhruvasagar/packup), and then simply
 add this plugin to your configurations:
 
-    call packup#add('git@github.com:dhruvasagar/vim-github-review.git')
+```vim
+call packup#add('git@github.com:dhruvasagar/vim-github-review.git')
+```
 
 ## Usage
 
