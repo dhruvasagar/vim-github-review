@@ -1,6 +1,8 @@
 # VIM Github Review v0.0.1
 Helper functions for github PR review workflow
 
+NOTE: This is meant to complement https://github.com/dhruvasagar/dotfiles/blob/master/bin/review which allows for reviewing github PRs from the command-line.
+
 ## Installation
 
 If you don't have a preferred installation method, I recommend
